@@ -43,7 +43,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Cmgmyr\\Messenger\\MessengerServiceProvider"
+                "App\\Provider\\MessengerServiceProvider"
             ]
         }
     }
